@@ -17,7 +17,7 @@ def phase_factor(x: complex):
     )
 
 
-if __name__ == "__main__":
+def main():
     N = 1000
     n = (1.0 - X) / N
     r = 0 + 0j
